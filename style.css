@@ -1,0 +1,23 @@
+html {
+
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+
+.menuhead{
+  background-color: salmon;
+  color: #fff;
+  padding: 50px;
+  
+  align-items: center;
+  justify-content: space-between;
+}
+
+.head{
+  width:"100%";
+  padding: 15px 15px;
+  align-items: center;
+  justify-items: end;
+}
